@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        Auto Dice
+// @description dice bot for stake and primedice  | *Use violentmonkey for the script
+// @author      Mr. Alliance
+// @version     1.0
 // @namespace   XCODE TEAM Scripts
 // @match       https://stake.games/casino/games/dice
-// @match       https://primedice.games/ 
+// @match       https://primedice.games/*
 // @grant       none
-// @version     1.0
-// @author      Mr. Alliance
-// @description dice bot for stake and primedice  | *Use violentmonkey for the script
 // @downloadURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // @updateURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // ==/UserScript==
