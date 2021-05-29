@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      Mr. Alliance
-// @description dice bot for stake and primedice
+// @description dice bot for stake and primedice  | *Use violentmonkey for the script
 // @downloadURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // @updateURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // ==/UserScript==
