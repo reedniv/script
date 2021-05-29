@@ -10,8 +10,8 @@
 // @downloadURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // @updateURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // ==/UserScript==
-var coin = "trx";
 
+var count_min = 1;
 window.onload = function loadpage(){
 
 setInterval(function(){
