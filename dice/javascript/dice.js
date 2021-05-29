@@ -26,7 +26,7 @@ README:
 // @grant        none
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // ==/UserScript==
-  var count_min = 1;
+var count_min = 1;
 (function() {
 console.log(document.readyState);
           setTimeout(function(){
