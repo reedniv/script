@@ -1,30 +1,13 @@
-/*
-Use at your own risk.
-
-Donations are appreciated;
-
-BTC		3Hxc36WZJxc2N5B7Ubm9ERSvfBqRNnjqEt
-ETH		0x09b36c0e38f010b7eef1598ef7d64b679ab9a1dd
-LTC		MMjsJGjWFNRWvJY5r1qp5pcTw2QFV9aM4a
-DOGE	DLPdoenUq6LGdEXbnb87kxDoMDoCjMA98B
-BCH		bitcoincash:qp3eqmdl8duv4mxr0yydhz4qs3mss3yvls49k6yx6u
-XRP		rNFugeoj3ZN8Wv6xhuLegUBBPXKCyWLRkB - tag : 1883124941
-TRX		TTebdfLXtVhUThLazpm3PBPcmKTLfXnEzk
-EOS		kucoindoteos - memo : 1874820691
-
-README:
-*Use tampermonkey for the script
-*Start script at page "https://stake.com/casino/games/dice"
-
-*/
-// @name         Auto Dice
-// @description  dice bot for stake
-// @author       Mr. Alliance - XCODE TEAM
-// @namespace    https://greasyfork.org/en/users/777292-coindropers
-// @version      1.0
-// @match        https://stake.games/casino/games/dice
-// @grant        none
-// @require      http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
+// ==UserScript==
+// @name        Auto Dice
+// @namespace   XCODE TEAM Scripts
+// @match       https://stake.games/casino/games/dice
+// @grant       none
+// @version     1.0
+// @author      Mr. Alliance
+// @description dice bot for stake and primedice
+// @downloadURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
+// @updateURL https://github.com/reedniv/script/blob/main/dice/javascript/dice.js
 // ==/UserScript==
 var count_min = 1;
 (function() {
