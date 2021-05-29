@@ -2,6 +2,7 @@
 // @name        Auto Dice
 // @namespace   XCODE TEAM Scripts
 // @match       https://stake.games/casino/games/dice
+// @match       https://primedice.games/ 
 // @grant       none
 // @version     1.0
 // @author      Mr. Alliance
